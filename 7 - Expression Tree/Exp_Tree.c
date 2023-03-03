@@ -25,7 +25,7 @@ int isOperator(char ch) {
     else
         return 0;
 }
-
+//Aditya Seth - setha4195@gmail.com
 // Build an expression tree from the given postfix expression
 struct Node* buildExpressionTree(char postfix[]) {
     struct Node* stack[100];

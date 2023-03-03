@@ -1,3 +1,6 @@
+Question -> Write a program to implement BFS in C
+
+
 This program implements BFS (Breadth-First Search) in C.
 
 The program first defines a macro MAX_SIZE to define the maximum size of the graph. It then declares and initializes several arrays, including the adjacency matrix adj to represent the graph, the visited array to keep track of which vertices have been visited, and the queue array to keep track of the vertices to be visited.

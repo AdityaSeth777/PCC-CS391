@@ -33,7 +33,7 @@ int main() {
             adj[i][j] = 0;
         }
     }
-
+//Aditya Seth - setha4195@gmail.com
     printf("Enter the edges:\n");
     for (i = 0; i < m; i++) {
         int u, v;

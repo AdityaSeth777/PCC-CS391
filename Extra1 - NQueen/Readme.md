@@ -1,3 +1,7 @@
+Question -> N-Queen in C using backtracking
+
+
+
 The given code implements the N-Queen problem in C using backtracking.
 
 First, global variables are defined to store the board state, row, diagonal 1, and diagonal 2 information. The size of the board is set to 10, but the user is prompted to input the desired value of N.

@@ -1,3 +1,6 @@
+Question -> Write a program in C to evaluate a postfix expression
+
+
 This C program is used to evaluate a postfix expression entered by the user.
 
 A postfix expression is an expression in which the operator follows the operands. For example, "2 3 +" is a postfix expression equivalent to the infix expression "2 + 3".

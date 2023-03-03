@@ -24,7 +24,7 @@ int pop(Stack* s) {
     }
     return s->arr[s->top--];
 }
-
+//Aditya Seth - setha4195@gmail.com
 int evaluate(char* expression) {
     Stack* s = (Stack*) malloc(sizeof(Stack));
     s->top = -1;

@@ -1,3 +1,8 @@
+Question -> Write a C program to convert a given infix expression
+to postfix expression
+
+
+
 This C program converts an infix expression to postfix expression using the input from the user. The program uses the stack data structure to implement the algorithm to convert the expression. The steps involved in the algorithm are as follows:
 
 Create a stack to store the operators.

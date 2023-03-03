@@ -42,7 +42,7 @@ void printBoard() {
     }
     printf("\n");
 }
-
+//Aditya Seth - setha4195@gmail.com
 // Function to solve the N-Queen problem using backtracking
 void solve(int col) {
     if (col == N) {

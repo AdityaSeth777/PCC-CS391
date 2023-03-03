@@ -1,3 +1,8 @@
+Question -> Write a C program for Collision avoidance in Hash table
+using Linear Probing.
+
+
+
 ```This program demonstrates how to implement collision avoidance in a hash table using linear probing.```
 
 The program defines three main functions:

@@ -34,7 +34,7 @@ void insertAtEnd(struct Node** head_ref, int new_data) {
     last->next = new_node;
     new_node->prev = last;
 }
-
+//Aditya Seth - setha4195@gmail.com
 void deleteNode(struct Node** head_ref, struct Node* del) {
     if (*head_ref == NULL || del == NULL) {
         return;

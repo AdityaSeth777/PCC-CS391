@@ -32,7 +32,7 @@ int isFull(int rear) {
     }
     return 0;
 }
-
+//Aditya Seth - setha4195@gmail.com
 // Enqueue a new node with the given data and priority
 void enqueue(struct Node* queue[], int *front, int *rear, int data, int priority) {
     struct Node* node = newNode(data, priority);

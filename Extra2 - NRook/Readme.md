@@ -1,3 +1,6 @@
+Question -> N-Rook in C using backtracking
+
+
 This is a C program that solves the N-Rook problem using backtracking. The program takes the value of N as input from the user and prints all the possible solutions where N rooks can be placed on an NxN chessboard such that no two rooks attack each other.
 
 The program uses a two-dimensional array board to represent the chessboard and a function isSafe() to check if a rook can be placed at a given position without attacking any other rook. The function checks if there is any rook in the same row, column, or diagonal as the given position. If there is no rook in any of these positions, the function returns 1, indicating that the position is safe.

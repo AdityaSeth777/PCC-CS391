@@ -32,7 +32,7 @@ void merge(int arr[], int l, int m, int r) {
         }
         k++;
     }
-
+//Aditya Seth - setha4195@gmail.com
     // Copy the remaining elements of L[], if there are any
     while (i < n1) {
         arr[k] = L[i];

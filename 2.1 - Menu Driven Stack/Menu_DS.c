@@ -21,7 +21,7 @@ int is_full(stack *s) {
 int is_empty(stack *s) {
     return s->top == -1;
 }
-
+//Aditya Seth - setha4195@gmail.com
 void push(stack *s, int x) {
     if (is_full(s)) {
         printf("Error: Stack overflow\n");

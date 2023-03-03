@@ -1,3 +1,7 @@
+Question -> Create Priority Queue and implement enqueue and
+dequeue operations in C
+
+
 The code implements a Priority Queue data structure using an array of structures. Each structure contains two fields - data and priority. The priority queue is implemented in such a way that the elements are arranged in descending order of priority. This means that the element with the highest priority will be dequeued first.
 
 The code defines a struct Node that represents a single node in the priority queue. The struct contains two fields - data and priority. The function newNode is used to create a new node with the given data and priority.

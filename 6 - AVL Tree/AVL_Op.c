@@ -29,7 +29,7 @@ struct Node* newNode(int data) {
     node->right = NULL;
     return(node);
 }
-
+//Aditya Seth - setha4195@gmail.com
 // Rotate the given subtree to the left
 struct Node* rotateLeft(struct Node *node) {
     struct Node *newRoot = node->right;

@@ -1,3 +1,7 @@
+Question -> Implement Singly Linked List and related operations
+like insertion, deletion, display, reverse and sort in C
+
+
 This code implements a singly linked list in C and provides the following operations:
 
 Insert: This operation inserts a new node at the end of the linked list. The user is prompted to enter the data to be inserted.

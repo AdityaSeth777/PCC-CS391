@@ -1,3 +1,6 @@
+Question -> Write a program to sort an array using Merge sort in C
+
+
 This program implements Merge sort algorithm to sort an array of integers in C language.
 
 Merge sort is a divide-and-conquer algorithm that recursively divides the array into two halves until each subarray contains only one element. Then, it merges the subarrays in a sorted order.

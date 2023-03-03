@@ -1,3 +1,7 @@
+Question -> Write a menu driven C program to implement circular
+queue using array
+
+
 ```This is a C program to implement a circular queue using an array. The program uses a menu-driven approach to allow the user to perform various operations on the queue, such as enqueueing, dequeuing, and displaying the contents of the queue.```
 
 The circular queue is implemented using an array with a fixed size of MAX_QUEUE_SIZE, which is defined as 10. Two variables, front and rear, are used to keep track of the front and rear of the queue, respectively. Initially, both variables are set to -1, indicating an empty queue.

@@ -61,7 +61,7 @@ void solve(int col) {
         }
     }
 }
-
+//Aditya Seth - setha4195@gmail.com
 int main() {
     // Get input for N
     printf("Enter the value of N: ");

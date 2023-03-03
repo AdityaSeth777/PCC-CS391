@@ -1,3 +1,6 @@
+Question -> Convert a prefix expression to postfix in C
+
+
 The above code converts a prefix expression to postfix expression using a stack data structure. The prefix expression is first read from the user and then processed to produce the corresponding postfix expression.
 
 The push() and pop() functions are used to implement a stack using an array. The is_operator() function checks if a given character is an operator.

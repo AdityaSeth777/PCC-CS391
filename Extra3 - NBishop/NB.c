@@ -55,7 +55,7 @@ void solve(int board[n][n], int col, int *count) {
         }
     }
 }
-
+//Aditya Seth - setha4195@gmail.com
 int main() {
     // Get input for N
     printf("Enter the value of N: ");

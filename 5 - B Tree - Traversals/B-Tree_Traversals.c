@@ -28,7 +28,7 @@ struct Node* insertNode(struct Node* node, int data) {
 
     return node;
 }
-
+//Aditya Seth - setha4195@gmail.com
 // Non-recursive Preorder traversal of the binary search tree
 void preorder(struct Node* root) {
     if (root == NULL) return;

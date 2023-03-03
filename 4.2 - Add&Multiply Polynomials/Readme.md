@@ -1,3 +1,7 @@
+Question -> Write a C program to add and multiply two
+polynomials
+
+
 The given code implements the addition and multiplication of two polynomials using linked lists. The program takes the degree and coefficients of two polynomials as input from the user and stores them in two separate linked lists. The addition and multiplication of the two polynomials are then performed using the two linked lists.
 
 The linked list is represented by the structure PolyNode, which contains the coefficient and exponent of the polynomial term, and a pointer to the next node. The createNode() function creates a new node with the given coefficient and exponent and returns a pointer to it. The insertPoly() function inserts a new node at the end of the linked list pointed to by the headRef pointer.

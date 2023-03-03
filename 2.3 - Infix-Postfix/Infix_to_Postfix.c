@@ -25,7 +25,7 @@ char pop(Stack* s) {
     }
     return s->arr[s->top--];
 }
-
+//Aditya Seth - setha4195@gmail.com
 int precedence(char operator) {
     switch (operator) {
         case '+':

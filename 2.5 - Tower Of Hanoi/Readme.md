@@ -1,3 +1,5 @@
+Question -> Implement Tower of Hanoi recursively in C
+
 This program implements the Tower of Hanoi problem recursively in C language, with an added step counter to count the total number of steps taken to solve the problem.
 
 The tower_of_hanoi() function takes four arguments: the number of disks n, and the three rods from_rod, to_rod, and aux_rod. It recursively solves the problem by moving n-1 disks from the from_rod to the aux_rod, then moving the remaining disk from the from_rod to the to_rod, and finally moving the n-1 disks from the aux_rod to the to_rod. Each move is printed with a step number that is incremented each time a disk is moved.

@@ -23,7 +23,7 @@ char pop() {
     }
     return stack[top--];
 }
-
+//Aditya Seth - setha4195@gmail.com
 int is_operator(char c) {
     return (c == '+' || c == '-' || c == '*' || c == '/');
 }

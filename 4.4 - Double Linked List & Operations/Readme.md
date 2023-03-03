@@ -1,3 +1,7 @@
+Question -> Implement Doubly Linked List and perform insertion,
+deletion, display and reverse in C
+
+
 ```This code is an implementation of a doubly linked list in C. It defines a Node struct with three members: data, prev (a pointer to the previous node in the list), and next (a pointer to the next node in the list).```
 
 The program then defines several functions for working with doubly linked lists:

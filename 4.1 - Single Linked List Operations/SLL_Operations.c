@@ -22,7 +22,7 @@ void insert(int data) {
     }
     temp->next = newNode;
 }
-
+//Aditya Seth - setha4195@gmail.com
 void delete(int data) {
     struct Node *temp = head, *prev;
     if (temp != NULL && temp->data == data) {

@@ -30,7 +30,7 @@ void enqueue(int data) {
     queue[rear] = data;
     printf("%d has been enqueued to the queue\n", data);
 }
-
+//Aditya Seth - setha4195@gmail.com
 // Function to remove an element from the queue
 void dequeue() {
     if (isEmpty()) {

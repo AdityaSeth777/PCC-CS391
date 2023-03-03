@@ -1,3 +1,7 @@
+Question -> N-Bishop in C using backtracking
+
+
+
 This program solves the N-Bishop problem using backtracking in C.
 
 The n variable is used to store the number of bishops to be placed on an n x n chessboard. The print_board() function is used to print the chessboard configuration.

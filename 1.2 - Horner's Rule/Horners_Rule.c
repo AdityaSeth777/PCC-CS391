@@ -7,7 +7,7 @@ double horner(double coeff[], int n, double x) {
         return x * horner(coeff, n-1, x) + coeff[n];
     }
 }
-
+//Aditya Seth - setha4195@gmail.com
 int main() {
     int n;
     printf("Enter the degree of the polynomial: ");

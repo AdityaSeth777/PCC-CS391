@@ -1,3 +1,8 @@
+Question -> Write a program in C to implement a menu driven stack
+application
+
+
+
 This program implements a menu-driven stack application using an array-based implementation of a stack. The stack is defined using a structure stack which contains an array items and an integer top representing the index of the topmost element in the stack. The stack operations push, pop, peek, and display are implemented as functions that take a pointer to a stack as a parameter.
 
 The initialize function is used to initialize the stack by setting the top value to -1, indicating an empty stack.

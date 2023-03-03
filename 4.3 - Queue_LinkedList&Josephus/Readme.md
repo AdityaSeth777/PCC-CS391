@@ -1,3 +1,7 @@
+Question -> Implement queue using Circular linked list and
+demonstrate JOSEPHUS problem in C
+
+
 This code implements a circular linked list-based queue data structure to solve the Josephus problem.
 
 The struct node represents a single node in the circular linked list, and has two members - data which holds the value of the node, and next which points to the next node in the list.

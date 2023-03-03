@@ -30,7 +30,7 @@ void insertPoly(Poly **headRef, int coef, int exp) {
         temp->next = newNode;
     }
 }
-
+//Aditya Seth - setha4195@gmail.com
 Poly *addPoly(Poly *poly1, Poly *poly2) {
     Poly *result = NULL;
     Poly **temp = &result;

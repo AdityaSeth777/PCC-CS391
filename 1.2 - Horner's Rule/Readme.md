@@ -1,3 +1,7 @@
+Question -> The classic way to evaluate a polynomial is Horner's Rule.
+Horner's rule can be stated recursively in C
+
+
 This code implements Horner's rule to evaluate the value of a polynomial at a given value of x. Here's how it works:
 
 The horner() function takes three arguments: an array coeff containing the coefficients of the polynomial in ascending order of degree, an integer n representing the degree of the polynomial, and a double x representing the value of x at which to evaluate the polynomial.

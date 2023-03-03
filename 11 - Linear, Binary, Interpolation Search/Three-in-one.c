@@ -28,7 +28,7 @@ int binary_search(int arr[], int l, int r, int x) {
     }
     return -1;
 }
-
+//Aditya Seth - setha4195@gmail.com
 // Interpolation search function
 int interpolation_search(int arr[], int n, int x) {
     int lo = 0, hi = n - 1;

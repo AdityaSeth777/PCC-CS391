@@ -25,7 +25,7 @@ void enqueue(struct queue* q, int data) {
         q->rear->next = q->front;
     }
 }
-
+//Aditya Seth - setha4195@gmail.com
 int dequeue(struct queue* q) {
     if (q->front == NULL) {
         return -1;

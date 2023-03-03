@@ -1,3 +1,5 @@
+Question -> Write a program to implement DFS in C
+
 This program implements Depth-First Search (DFS) algorithm to traverse a graph. The program first takes input from the user, the number of vertices (n) and edges (m) of the graph. Then, it initializes an adjacency matrix (adj) of size n x n to represent the graph and an array visited of size n to keep track of visited vertices.
 
 Then, the program takes input the edges of the graph and updates the adjacency matrix accordingly. For every edge (u, v), the program sets adj[u][v] and adj[v][u] to 1 to indicate that there is an edge between u and v.

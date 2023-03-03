@@ -16,7 +16,7 @@ void initDeque(Deque *dq) {
     dq->rear = -1;
     dq->size = 0;
 }
-
+//Aditya Seth - setha4195@gmail.com
 int isFull(Deque *dq) {
     return dq->size == MAX_SIZE;
 }

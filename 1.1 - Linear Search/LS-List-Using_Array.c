@@ -8,7 +8,7 @@ int linear_search(int arr[], int n, int key) {
     }
     return -1;  // key not found
 }
-
+//Aditya Seth - setha4195@gmail.com
 int main() {
     int n, key, index;
     printf("Enter the size of the array: ");

@@ -1,3 +1,7 @@
+Question -> Create binary search tree and implement Preorder, Inorder
+and Postorder traversal non-recursively in C
+
+
 This code implements a binary search tree data structure in C, which allows the user to insert nodes into the tree and traverse it using different non-recursive methods: preorder, inorder, and postorder.
 
 The program first defines the structure of the binary search tree node using the "struct Node" data type. Each node contains an integer data value, a pointer to the left child node, and a pointer to the right child node.

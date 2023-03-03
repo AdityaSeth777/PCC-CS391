@@ -1,3 +1,8 @@
+Question -> Write a menu driven C program to implement double
+ended queue
+
+
+
 The given code implements a menu-driven C program to implement a double-ended queue (deque) using an array. A deque is a data structure that allows insertion and deletion of elements from both ends.
 
 The program defines a Deque structure that holds a pointer to an array (arr), indices of front and rear elements (front and rear), and the current size of the deque (size). The initDeque function initializes the deque by allocating memory for the array using malloc.
