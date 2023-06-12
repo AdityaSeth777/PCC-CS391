@@ -1,4 +1,5 @@
 # PCC-CS391
+PCC-CS391 is a collection of C code snippets and examples for the CS391 course at Maulana Abul Kalam Azad University of Technology (MAKAUT). The code snippets cover various DSA programming concepts and tasks, providing practical examples and demonstrations.
 
 ## How to Install
 
